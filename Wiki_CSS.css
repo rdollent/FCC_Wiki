@@ -81,15 +81,31 @@ form {
   border-radius: 20px;
 }
 .results {
+  
+      /* border: 3px dashed black; */
+    /* border-radius: 30px; */
+    padding: 10px;
+    width: 40%;
+    margin: 20px auto;
+    background-color: #FFFFA5;
+    /* font-family: Gochi Hand; */
+    /* font-size: 24px; */
+    height: 15em;
+    width: 15em;
+    /* display: inline-block; */
+    /* margin: 20px; */
+    
+  /*  
+  box-shadow: 3px 3px 10px rgba(33,33,33,.7);
   border: 3px dashed black;
   border-radius: 30px;
   padding: 10px;
   width: 40%;
   margin: 20px auto;
   background-color: #FFFFA5; /*post-it colour*/
-  font-family: Gochi Hand;
+  /*font-family: Gochi Hand;
   font-size: 24px;
-
+*/
 }
 
 
