@@ -90,11 +90,12 @@ form {
     background-color: #FFFFA5;
     font-family: 'Caveat Brush', cursive;
     /* font-family: Gochi Hand; */
-    /* font-size: 24px; */
+    font-size: 24px; 
     height: 15em;
     width: 15em;
     /* display: inline-block; */
     /* margin: 20px; */
+    box-shadow: 3px 3px 10px rgba(33,33,33,.7);
     
   /*  
   box-shadow: 3px 3px 10px rgba(33,33,33,.7);
