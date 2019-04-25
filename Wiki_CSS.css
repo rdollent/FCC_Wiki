@@ -62,23 +62,27 @@ form {
 }
 
 #box {
-  width: 25%;
-  border: 2px solid black;
-  border-radius: 20px;
-  height: 2em;
-  text-align: center;
-  font-family: Nunito;
-  font-size: 120%;
+  /*width: 25%; */
+    /* border: 2px solid black; */
+    /* border-radius: 20px; */
+    height: 2em;
+    text-align: center;
+    font-family: Nunito;
+    font-size: 120%;
+    margin: 0 20px;
 }
 
 #search {
-  width: 5em;
-  height: 1.5em;
-  vertical-align: middle;
-  font-family: Nunito;
-  font-weight:bold;
-  font-size: 120%;
-  border-radius: 20px;
+      /* width: 5em; */
+    /* height: 1.5em; */
+    /* vertical-align: middle; */
+    font-family: Nunito;
+    font-weight: bold;
+    font-size: 120%;
+    /* border-radius: 20px; */
+    background-color: #FF8A80;
+    padding: 16px;
+    border: none;
 }
 .results {
   
